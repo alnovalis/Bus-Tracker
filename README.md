@@ -1,1 +1,1 @@
-This project uses MTA bus data to determine stops between Baltimore, MD and Perry Hall, MD. An animated marker on the map highlights the bus route when one clicks on "Show stops between Baltimore and Perry Hall." The marker moves from one bus stop to the next one on the map.
+This project uses MBTA bus data to determine stops on the #23 bus route. An animated marker on the map highlights the bus route when one clicks on "Track Bus Stops for Bus #23." The marker moves from one bus stop to the next one on the map.
