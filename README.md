@@ -6,9 +6,11 @@
 
 <h2>HOW TO RUN</h2>
 <u1>
-<li></li>
-<li></li>
-<li></li>
+<li>Clone this repository.</li>
+<li>Open up the index.html file in the browser.</li>
+<li>Click the "Track Bus Stops for Bus #23 button.</li>
+<li>Watch the marker move along the bus route.</li>
+<li>Check the console to see the current bus data appear every 30 seconds.</li>
 </u1>
 
 <h2>FUTURE IMPROVEMENTS</h2>
